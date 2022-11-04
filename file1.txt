@@ -1,2 +1,5 @@
-This is file1. Created by Maya at 11:22AM
+<<<<<<< HEAD
+This is file1. Created by Maya at 11:22AM.
+STEP 3:  added by Maya on Nov 2 at 11:37AM
 STEP 4:  new line added by Maya on Nov 2 at 11:41AM.
+>>>>>>> 67ee11ee595d21f2397b6234587819b3c636da90
